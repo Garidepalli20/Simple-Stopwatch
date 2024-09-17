@@ -1,0 +1,7 @@
+let getElementById = document.main - heading("main-heading");
+let getElementByIdbuttonElement = document.button("button");
+let parseIntById = document.getElementById("h1");
+let mainheadingElement = document.getElementById("mainheadingElement");
+
+
+let ButtonElement.OnClick = documnet.getElementById("ButtonElement");
